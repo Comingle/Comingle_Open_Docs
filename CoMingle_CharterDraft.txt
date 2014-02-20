@@ -1,0 +1,54 @@
+
+I - Product development - 
+a. Design, build, test, itterate, 
+b. production issues
+
+II - education
+a. workshops
+b. whackathons, jackathons, jam sessions,
+
+III - Facilitation
+a. design kits
+b. component research and dissemination and documentation
+c. sexy digikey
+d. instructables
+
+IV - Outreach: promoting empowerment through sex positivism
+a. critical wanking
+b. outreacharound
+
+V - Puns
+
+---------------------------------------------------------------
+
+
+
+
+I - product development
+a. design, build test, and research production, and funding (kickstarter, angel investor, venture capital or incubator) for TWo sex toys
+b. distribution - web, local shops, pop up shops
+
+II - education
+a. design curriculum for a workshop or two (syllabus, parts list, learning outcomes, benefits to business and us) - slide deck/pitch
+b. pitch to local business or location (freeside)
+
+III - facilitation
+a. design a kit to build one of the products. pricing, distribution, sourcing
+b. sync up kits and education
+
+Iv - Outreach - Not for profit but building good will/branding and research
+a. website/blog/instructable/documentation
+b. reflection and dissemination of reflective materials about significance of diy sex hack stuff
+
+--------------------------------------------------------------
+Wyld
+
+
+-----------
+Increase collective value through promoting empowerment through physical computing, education, and outreach, with an early focus on sexuality and embodied experience.
+
+---------------------------
+Open source hardware issues
+I - we will release all of our work (open source, open hardware, CAD, solidworks, etc.)
+a. releases will happen at the appropriate time (not continuously, not in a way the negatively affects business)
+II - open source/open hardware goal must also defend against others locking down our work and ideas
